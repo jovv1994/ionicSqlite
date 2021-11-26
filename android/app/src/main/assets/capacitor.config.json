@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "sqliteIonic",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
